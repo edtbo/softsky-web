@@ -1,2 +1,3 @@
-# softsky-web
- Team Softsky web
+# Team Softsky official website
+
+currently on deveploment...
