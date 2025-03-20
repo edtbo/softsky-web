@@ -1,4 +1,18 @@
+@import url('components.css');
+
 body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #191919;
     color: #fff;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    font-style: bold;
+    padding: 4px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
